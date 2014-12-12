@@ -1,0 +1,2 @@
+def printNum(n):
+    if 
